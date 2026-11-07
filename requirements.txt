@@ -1,0 +1,8 @@
+# Toolchains (not Python packages)
+# Unity Editor: 2022.3.62f1c1; open the Unity/ directory.
+# Unity packages: Unity/Packages/manifest.json and packages-lock.json.
+# Desktop target: Windows, Mono, .NET Framework API (System.IO.Ports).
+# Arduino IDE 2.x or Arduino CLI with Arduino AVR Boards core (Uno-compatible).
+# Firmware uses the Arduino core only; no external sensor libraries are required.
+# Optional regression runner: PowerShell, Python 3.7+, and a C++11 compiler.
+# Select the real serial port through HOOTY_FLUTE_PORT or InputManager.portName.
